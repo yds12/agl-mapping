@@ -1,0 +1,31 @@
+Version and change log:
+
+----- 04/09/2011 -----
+
+0.2.3		HasMoved da camera.
+
+----- 24/08/2011 -----
+
+0.2.2		Adaptação à AGL 1.3.6 (operador de atribuição de Vector e IntVector).
+
+----- 23/08/2011 -----
+
+0.2.1		Pequena mudança na getPosition() do isométrico.
+
+----- 22/08/2011 -----
+
+0.2.0		Resolvido problemas com vazamento de memória e adaptação à AGL 1.3.0
+
+0.1.2		Toda a conversão da antiga mapping finalizada. Resolver problemas com vazamento de memória (CRÍTICO)
+
+----- 22/08/2011 -----
+
+0.1.1		Versão quase pronta. Falta OrtogonalMap e resolver problemas com vazamento de memória (CRÍTICO)
+
+----- 20/08/2011 -----
+
+0.1.0		Versão quase pronta. Falta resolver problema com implementação de métodos abstratos da Map na IsometricMap. E implementar a OrtogonalMap.
+
+----- 03/07/2011 -----
+
+0.0.1		Versão inicial da AGL-Mapping
