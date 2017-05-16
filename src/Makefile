@@ -20,6 +20,10 @@ debug: map.cpp camera.cpp isometricmap.cpp ortogonalmap.cpp
 test: test.cpp
 	g++ -g -o test test.cpp -lagl -lagl-mapping
 
+# Install the AGL library (debug) on the system
+install_debug:
+	../install_debug.sh
+
 # Install the AGL library on the system
 install:
 	../install.sh
